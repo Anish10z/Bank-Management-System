@@ -8,29 +8,47 @@ The Bank Management System is a Java-based application designed to facilitate ef
 ## Screenshots
 ### Login Interface
 
-<img src="Screenshot/Interface.jpg" alt="Interface.jpg" width="270" height="540">
+<img src="Screenshot/Login.png" alt="Login.jpg" width="600" height="350" >
 
 ### Signup Page1
 
+<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="540">
+
 ### Signup Page2
+
+<img src="Screenshot/signup_page2.png" alt="signup_page2.png" width="600" height="540" >
 
 ### Signup Page3
 
+<img src="Screenshot/signup_page3f.png" alt="signup_page3f.png" width="600" height="540" >
+
 ### Transaction Interface
+
+<img src="Screenshot/Transaction_screen.png" alt="Login.jpg" width="600" height="400">
 
 ### Deposit
 
+<img src="Screenshot/deposit.png" alt="deposit.png" width="600" height="400" >
+
 ### Withdrawal
+
+<img src="Screenshot/Withdraw .png" alt="Withdraw.png" width="600" height="400" >
 
 ### Fast Cash
 
+<img src="Screenshot/Fast_cash.png" alt="Fast_cash.png" width="600" height="400" >
+
 ### Balance Query 
+
+<img src="Screenshot/balance_check.png" alt="balance_check.png" width="600" height="400" >
 
 ### Pin Change
 
+<img src="Screenshot/pin_change.png" alt="pin.png" width="600" height="400" >
+
 ### Account Statement
 
-
+<img src="Screenshot/mini_statement.png" alt="mini.png" width="600" height="400" >
 
 ### Features
 
